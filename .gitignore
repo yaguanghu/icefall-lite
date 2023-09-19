@@ -1,0 +1,22 @@
+icefall.egg-info/
+data
+__pycache__
+path.sh
+exp
+exp*/
+*.pt
+download
+dask-worker-space
+log
+*.bak
+*-bak
+*bak.py
+
+# Ignore all text files
+*.txt
+
+*.param
+*.bin
+
+# Ignore vscode config file
+.vscode
